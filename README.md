@@ -1,2 +1,3 @@
-# franz-instagram-recipe
+# Franz Instagram recipe
+
 A Franz recipe for Instagram service.
