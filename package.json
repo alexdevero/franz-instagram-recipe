@@ -1,0 +1,15 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "version": "1.0.0",
+  "description": "Instagram",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-instagram-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://www.instagram.com/"
+  }
+}
